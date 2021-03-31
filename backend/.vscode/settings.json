@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1E3039",
+    "titleBar.activeBackground": "#2A434F",
+    "titleBar.activeForeground": "#F9FBFC"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "onWindowChange",
+  "cSpell.words": [
+    "openapi",
+    "spec"
+  ]
+}
